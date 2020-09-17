@@ -1,3 +1,5 @@
+#Simple but relatively slow since it has to iterate over every data-point.
+
 import random
 from scipy.spatial import distance
 from sklearn.datasets import load_iris
